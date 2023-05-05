@@ -1,0 +1,84 @@
+Walls 			    : #
+Player 			    : @
+Box    			    : $
+Objectives 		  : .
+Superposition 	: *
+
+Solver used : https://computerpuzzle.net/english/sokoban/ver740/index.html
+
+
+N°1 :
+
+ ######
+##  . #
+# * # #
+# .$  #
+#  #$##
+##@  # 
+ #####  
+
+Solution : uuluRurrrddlLrruullldlddrdrrUdlluluururrrddLddlluUddrruuLUdrddlluluuRuRDllddrUddrruuL
+
+N°2 :
+
+#######
+#  .  #
+# #.# #
+#   $ #
+#.$$ ##
+#@ ###
+####
+
+Solution : uuuurrrrddLruullllddddrUluuurrrrddldLUrruulllldddRluuurrrrddllLrrruulllldDrrUdlluurRddlddlUUrrrdLullddrUruuullDDRdrUrruuL
+
+N°3 : 
+
+   ####
+####  #
+#  *$@#
+#     #
+## .###
+ #$ #
+ # .#
+ ####
+ 
+Solution : ulDLddddlUruuurrdLulDDDuulluRRdddlUruulldRurDrruL
+
+N°4 : 
+
+### ###
+#.###.#
+# #  .#
+# $$ @#
+#  $  #
+#  #  #
+#  ####
+####
+
+Solution : dlLruulDLDlUUddrRRdrUUUddllllddrUUluRRRdrU
+
+N°5 : 
+
+   ####
+   #@ ##
+####   #
+#. #$$ #
+#     ##
+#.  $##
+##.  #
+ #####   
+
+Solution : dDurrdLdLLdlluurDDurrruulDrdLLddrUUdllluurDldRurrruulDrdLLLdlUrrrdLL
+
+N°17 :
+
+ ####
+ #  #
+ #  #
+##. ####
+# @$. .#
+# $$ ###
+###  #
+  ####
+  
+Solution : RRRlddlUUlldRurrddlUruLUluurDDDrddlUlUUruulDrdDldRdrU
