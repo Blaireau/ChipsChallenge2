@@ -8,22 +8,22 @@ To solve each Sokoban puzzle I used the following solver : https://computerpuzzl
 Each file contains solutions for all the puzzles in these levels. Puzzles are presented in numerical order, not in the order of appearance in the level.
 
 In order to understand the schematics, here are the captions :
-
->Walls          : #
->Player         : @
->Box            : $
->Objectives 		: .
->Superposition 	: *
-
+```
+Walls           : #
+Player          : @
+Box             : $
+Objectives      : .
+Superposition 	: *
+```
 For more readability , they're replicated at the beginning of each file.
 
 Solution gives the directions to solve the puzzle : 
-
->d or D : Down key
->u or U : Up key
->l or L : Left key
->r or R : Right key
-
+```
+d or D : Down key
+u or U : Up key
+l or L : Left key
+r or R : Right key
+```
 The directions are in lower and UPPER case.
 When in lowercase : It means that Chip moves alone (i.e. without pushing a box)
 When in UPPERCASE : It means that Chip push a box
