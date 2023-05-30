@@ -1,0 +1,331 @@
+Walls           : #
+Player          : @
+Box             : $
+Objectives      : .
+Superposition 	: *
+
+Solver used : https://computerpuzzle.net/english/sokoban/ver740/index.html
+
+N°6 :
+
+#####
+# ..####
+# $    #
+#  #$# #
+#@  .$ #
+########
+
+Solution : uuurDrrrrddLLUdrruulLLulldRlddrUUluRdddRRuuLrddlluUrrrrddL
+
+N°11 :
+
+########
+#.   . #
+# # #  #
+# $@ $.#
+##### $#
+    #  #
+	####
+
+Solution : uurrrddLddrUUluullddRluurrdDrddlUUlluurrrDDuulllllddRRuurrrddlUruLLLLrrrddddrUUluullddRluurrdDrddlUUlluurrrDulllddrrU
+
+N°16 :
+
+ ######
+ #  .@##
+ #   $.#
+ ###*# #
+##     #
+#  $  ##
+#   ###
+#####
+
+Solution : ldDDrruuLLddllddrUluRRuurrddLdLLdlluRdrUrruruullulldRRdDrdLLdlluRuRlddrUrUUURldddlluRdrU
+
+N°24 :
+
+    ####
+	#  #
+  ###$.#
+  #@ . #
+###  #.#
+# $  $ #
+#   #  #
+########
+
+Solution : dddlluRdrUruurrddLLLrrruuuulDrdddllldlluRRRRdrUUUddlluulDrdLdlluRRRRdrU
+
+N°29 :
+
+ ####
+##  ###
+#     ##
+#  #$$@#
+#  . *.#
+########
+
+Solution : dLLUdrruLuLLulDlddrUluRRlddRRRuuLLulDDldRRRUruLLulDDldR
+
+N°31 :
+
+########
+#     @#
+# # ##*#
+# #  $ #
+#.$ .  #
+#####  #
+    #  #
+	####
+
+Solution : DDLLdlUrrruullllldddRRurrddrUUllldRllluuurrDDrdLLrrurrdL
+
+N°32 :
+
+ ######
+ #@   ##
+ ##$   #
+### .  #
+# $ #$##
+# .  .#
+####  #
+   ####
+
+Solution : rrddlddrrUUddlllluRdrrruullDldRuuruurDrdLddLLulldRRRdrUUUruLullDDDuuurrddddlLuuuRurDDD
+
+N°34 :
+
+#####
+#   ####
+# $$   #
+# .#.  #
+#  ## ##
+#@ ##$#
+#    .#
+#######
+
+Solution : uuuurDRRllDDuurrdrruLLLulDlddddrrrrUUddlllluuuurrrrrdLullllddrDldRRR
+
+N°35 :
+
+######
+#@.  #
+# .# ###
+#  $$  #
+# $.   #
+########
+
+Solution : dddRRRULdlUrrrrdLLLulluurrrDulllddrrdrruLuulllddrUdldRRRuLdlUrrrrdLL
+
+N°36 :
+
+########
+#@ .#  #
+# .$ . #
+#  #$  #
+#  $  ##
+###  ##
+  #  #
+  ####
+
+Solution : rdRRDDurruLLLulDrrddLddrUUUruLLulldddRRdrUUdllluuurrdRlulldRlddrUUluRdddrruuL
+
+N°37 :
+
+ #######
+##  @. #
+# $  $ #
+#.$.####
+#  ##
+#  #
+#  #
+####
+
+Solution : dldLruulDDDuuurrrrdLLullddrUluRddldlddrUUUruulDlDDuRdddlUUruuurR
+
+N°38 :
+
+######
+# .  #
+#  # #
+#  $ ##
+##$#  #
+#   #@#
+#. *  #
+#######
+
+Solution : dlLulUUUluRddddrdrruuluLrdrddlluluUluurDDrrdrddllulldRRulUUluurDDDDrdLuuurruuLrdddrddL
+
+N°39 :
+
+   #####
+#### .@#
+# *  . #
+# $ #  #
+# #  $ #
+#   ####
+#####
+
+Solution : dllldddlluuuRRRurDlllldRlddrruUluRRurrdddLLrruuulldllldddrrUUdrrruuulldLrurrdLrddlUUddlluuR
+
+N°40 :
+
+  ####
+###  ###
+# .. $.#
+#  $$  #
+#### @ #
+   #####
+
+Solution : lULulldRururDRddlULulldRRRdrruLuLLrrddlUruL
+
+N°41 :
+
+    ####
+    #  #
+##### .#
+# $ $ $#
+#   .  #
+###@.  #
+  ######
+
+Solution : urruurDldlluRdrUruulDDlddrrUUdLuuurDDllldlluRRRlddrruUruulDDllddrrrUUlDrdL
+
+N°42 :
+
+########
+#   #@ #
+# #.$ $#
+#   $  #
+#####. #
+  #    #
+  #   .#
+  ######
+
+Solution : rDDDDuulLLuRdrruulDDDuullullddRRRurrddlUruLLrrdddLdlluRdrU
+
+N°43 :
+
+   ####
+  ## @##
+ ##  ..#
+## $#$##
+#   $. #
+#  #   #
+#    ###
+######
+
+Solution : dDDrdLuLLrruullDlDRRlllddrrrUrUUddldllluurruurRllddRdrUUddldllUluRRR
+
+N°44 :
+
+######
+#   @#
+# $$####
+# $ .  #
+## #.# #
+#.   # #
+#      #
+########
+
+Solution : lllddRRRllluurDDDurrdddllluRRdrUdrruuuLLLrrrdddlllluuUluurDDDurrrrdddllluLuuuurDldR
+
+N°45 :
+
+   ####
+   #  #
+#### $##
+#  $.  #
+#@##   #
+#   ## #
+#   * .#
+########
+
+Solution : urRRdrruLLuurDDrdddlLLulldRRulluurRRdRUrDDuulluurDlddrruL
+
+N°46 :
+
+   #####
+   #   #
+ ###   #
+ # $ $##
+## $  #
+#.  # #
+#..  @#
+#######
+
+Solution : llluuuRDDurrddlLLuurrrUdlluRuurrdLulDDldddrruuLLulDDurrrUluurrdLulDDrdLLulDrdL
+
+N°47 :
+
+   #####
+####. @#
+#  .$  #
+# #  ###
+# $ $ .#
+####   #
+   #####
+
+Solution : llDlddRUluRdddrruLdlUluullddRRRRlluururrdLLLddrUUddllluuR
+
+N°48 :
+
+########
+#@ .#  #
+# # $  #
+# $.#$ #
+## .   #
+ #  ####
+ ####
+
+Solution : rrdddrrruulDrdLLLuuRlddrrruuulDllullddRluurrdrrrddllldlUrrrruulllDuullddRdRRlUUrrrddLLrruullldlddrUrrruulDrdLL
+
+N°49 :
+
+#######
+#     #
+#.## .#
+#*  $ #
+#  #$ #
+#  #@ #
+#######
+
+Solution : ruuLLruullldDuurrrrddddlUUruullllddRRRdrUlllluurrrDDllddlUUrrrrddlUruLLL
+
+N°50 :
+
+####
+#. #
+# $#
+#  #####
+# .$   #
+# .$ # #
+###  @ #
+  ######
+
+
+Solution : luuLrddlUlluurDldRuuluurDlddrRRddrruuLLLLdlUUUddrrrdLulluurD
+
+N°51 :
+
+########
+#      #
+#@#$   #
+# $  #.#
+##$#.  #
+ #    .#
+ #######
+
+Solution : dRRlluurrDrrrddllUdrruuullldRRurDDDuuulllllddrRurrrddllUluRRurDlldddllUdrruuuulllddRRurD
+
+N°52 :
+
+######
+#  .@#
+#    ###
+# #$$. #
+#.  ## #
+# $ ## #
+###    #
+  ######
+
+Solution : dlllddrrUdlluuurrrdLddddrrruuulLuullldddrrUUruLdddlldRururrrdddlllUlluuuRRurDldRullluRdldddrrUUruLLulDrrddddrrruuuLrdddllluuuullDurrdR
