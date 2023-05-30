@@ -1,11 +1,10 @@
-Walls 			    : #
-Player 			    : @
-Box    			    : $
-Objectives 		  : .
-Superposition 	: *
+Walls          : #
+Player         : @
+Box            : $
+Objectives     : .
+Superposition  : *
 
 Solver used : https://computerpuzzle.net/english/sokoban/ver740/index.html
-
 
 N°1 :
 
